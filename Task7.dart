@@ -253,7 +253,7 @@ class Triangle implements Drawable {
 class Counter {
   int _count = 0;
 
-  // Getter
+
   int get count => _count;
 
   void increment() {
